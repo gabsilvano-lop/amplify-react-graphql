@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "gbsamplifyproject99ca2839": {}
+      },
+      "api": {
+        "gbsamplifyproject": {}
+      },
+      "storage": {
+        "imagestorage": {}
       }
     }
   }
